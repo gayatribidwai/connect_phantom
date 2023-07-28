@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/connect_phantom/static/css/main.073c9b0a.css",
+    "main.js": "/connect_phantom/static/js/main.c9c3d4b9.js",
+    "static/js/787.fb1a5f53.chunk.js": "/connect_phantom/static/js/787.fb1a5f53.chunk.js",
+    "static/media/logo.svg": "/connect_phantom/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/connect_phantom/index.html",
+    "main.073c9b0a.css.map": "/connect_phantom/static/css/main.073c9b0a.css.map",
+    "main.c9c3d4b9.js.map": "/connect_phantom/static/js/main.c9c3d4b9.js.map",
+    "787.fb1a5f53.chunk.js.map": "/connect_phantom/static/js/787.fb1a5f53.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.c9c3d4b9.js"
+  ]
+}
